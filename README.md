@@ -13,49 +13,37 @@ currently tinkering with agents, news intelligence, and co-creating a **DSA book
 ---
 
 ### 🚀 selected work
-projects
-├─ Cloud Orchestrator · multi-agent ADK system that turns plain-English intents into 20+ GCP actions (GKE, Vertex, BigQuery) — no scripts.
-│ ↳ live/demo: <add link> · devpost: <add link>
-│ [ADK] [Gemini] [GCP] [Python]
-├─ News · a lightweight news-intelligence playground — scrape → summarize → explore. (WIP)
-│ [Python] [JS]
-├─ FeedForward · a personal learning navigator that converts goals into weekly “feed-forward” tasks and check-ins. 🏅 runner-up
-│ ↳ devpost: <add link>
-│ [LLM] [UX] [Product thinking]
-├─ NeuraDance · pose-based dance-form classifier using MediaPipe + Keras.
-│ [MediaPipe] [TensorFlow/Keras] [Python]
-├─ Mathai · an early attempt (not completed yet).
-│ [WIP]
-├─ StockMarketPrediction · Twitter sentiment + ML baselines for market movement.
-│ [NLP] [Jupyter] [Regression/Classification]
-└─ OpenBook (MLH hackathon) · a simple roadmap site to help beginners make first open-source contributions.
-↳ deployed demo: <add link>
-[HTML] [Tailwind]
+### 🌩️ [Cloud Orchestrator](add-link)
+Multi-agent ADK system that turns plain-English intents into 20+ GCP actions (GKE, Vertex, BigQuery) — no scripts needed.  
+**🔗 [Live Demo](add-link) • [Devpost](add-link)**  
+`ADK` `Gemini` `GCP` `Python`
 
-🌩️ Cloud Orchestrator
-Multi-agent ADK system that turns plain-English intents into 20+ GCP actions (GKE, Vertex, BigQuery) — no scripts needed.
-🔗 Live Demo • Devpost
-ADK Gemini GCP Python
-📰 News Intelligence Playground
-Lightweight news-intelligence workflow: scrape → summarize → explore. Work in Progress
-Python JavaScript
-🎯 FeedForward 🏅
-Personal learning navigator that converts goals into weekly "feed-forward" tasks and check-ins. Runner-up winner
-🔗 Devpost
-LLM UX Design Product Strategy
-💃 NeuraDance
-Pose-based dance-form classifier using MediaPipe and Keras for real-time movement recognition.
-MediaPipe TensorFlow/Keras Python
-📊 Stock Market Prediction
-Twitter sentiment analysis combined with ML baselines for market movement prediction.
-NLP Jupyter Regression/Classification
-📖 OpenBook
-Simple roadmap site helping beginners make their first open-source contributions. Built at MLH Hackathon
-🔗 Live Demo
-HTML Tailwind CSS
-🧮 Mathai
-Early-stage mathematical AI assistant. Currently in development
-Work in Progress
+### 📰 [News Intelligence Playground](add-link) 
+Lightweight news-intelligence workflow: scrape → summarize → explore. *Work in Progress*  
+`Python` `JavaScript`
+
+### 🎯 [FeedForward](add-link) 🏅 
+A multi-modal agent built for the Capital One Food Bank Challenge. **Runner-up winner**  
+**🔗 [Devpost](add-link)**  
+`LLM` `UX Design` `Product Strategy`
+
+### 💃 [NeuraDance](add-link)
+Pose-based dance-form classifier using MediaPipe and Keras for real-time movement recognition.  
+`MediaPipe` `TensorFlow/Keras` `Python`
+
+### 📊 [Stock Market Prediction](add-link)
+Twitter sentiment analysis combined with ML baselines for market movement prediction.  
+`NLP` `Jupyter` `Regression/Classification`
+
+### 📖 [OpenBook](add-link) 
+Simple roadmap site helping beginners make their first open-source contributions. *Built at MLH Hackathon*  
+**🔗 [Live Demo](add-link)**  
+`HTML` `Tailwind CSS`
+
+### 🧮 Mathai
+Early-stage mathematical AI assistant. *Currently in development*  
+`Work in Progress`
+
 
 ---
 
