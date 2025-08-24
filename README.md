@@ -1,78 +1,41 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Sneha!&fontSize=45&animation=fadeIn&fontAlignY=40" />
-</div>
+# Hi, I’m **Sneha Vellelath** (*vellsneha*)
 
-# 👩‍💻 Sneha Vellelath  
-
-**Engineer–Researcher | Applied Machine Learning | Intelligent Systems | Scalable AI Infrastructure**
+**Graduate Student • Machine Learning Enthusiast • Builder**
 
 ---
 
-## 🚀 About Me  
-
-- 🎓 Master’s student in **Applied Machine Learning** at the University of Maryland  
-- 💡 Exploring the intersection of **AI, Numerical Methods, and Intelligent Systems**  
-- 🤖 Passionate about **NLP, Computer Vision, and AI for Social Good**  
-- 🧠 Writing a **Cybersecurity Book** with hand-drawn AI illustrations  
-- 🎶 Innovating with **Dance + AI** (Bharatanatyam recognition & teaching tools)  
-- ❤️ Love documenting my travels through creative videos  
-- 🌍 Originally from **India**, now building tech with a global perspective  
+### 🌱 About Me
+- Master’s student in **Applied Machine Learning** at UMD  
+- Passionate about **NLP, Computer Vision, and Agentic Systems**  
+- Exploring how AI can power **learning, creativity, and real-world applications**  
+- Author of a **Data Structures & Algorithms book** (personal exploration & learning)  
 
 ---
 
-## 🛠️ Tech & Tools  
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-</p>
+### 🚀 Featured Projects
+| Project | What it’s about |
+|---------|-----------------|
+| **Feedforward** | An AI-powered learning companion inspired by the idea of a “guru” guiding skill growth |
+| **Cloud Orchestrator** | Multi-agent system built with Python + LangChain for orchestrating cloud tasks |
+| **StockMarketPrediction** | Using NLP and ML models for sentiment-based stock predictions |
+| **NeuraDance** | Dance form recognition using deep learning and video analysis |
+| **mathai** | A math-focused AI assistant |
+| **OpenBook** | Early-stage app for guiding beginners in contributions |
+| **News** | Simple experiment with news classification |
 
 ---
 
-## 🌟 Highlighted Projects  
-
-- 📑 **AI Productivity Assistant**: Voice-controlled Google Docs integration with grammar checks and AI-powered rephrasing  
-- 💃 **AI Dance Teacher**: Recognizes Bharatanatyam steps, analyzes body form, and provides beginner-friendly guidance  
-- 💊 **Elderly Medicine Tracker**: App with audio reminders, prescription inventory, and video guidance for medication intake  
-- 📘 **Cybersecurity Illustrated Book**: Blending technical insights with AI-generated whiteboard-style illustrations  
-- 📊 **Numerical Solver Experiments**: Testing and comparing ODE solvers for engineering applications  
+### 🛠️ Skills & Interests
+- **Programming**: Python, JavaScript, HTML/CSS  
+- **Machine Learning**: Regression, Classification, NLP, Sentiment Analysis  
+- **Systems**: Agentic AI, Cloud Orchestration, Applied ML Research  
+- **Other**: Writing & simplifying technical concepts (DSA Book)  
 
 ---
 
-## 📈 GitHub Stats  
-
-<div align="center">
-  
-![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=vellsneha&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vellsneha&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=vellsneha&theme=radical)  
-
-</div>
+### 🤝 Connect With Me
+[GitHub](https://github.com/vellsneha) • [LinkedIn](#) • [Email](mailto:youremail@example.com)
 
 ---
 
-## 🌐 Connect with Me  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-</div>
+*Currently learning, building, and sharing my journey in Machine Learning & AI — one project at a time.*
