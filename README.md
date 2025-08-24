@@ -1,14 +1,14 @@
 # Sneha Vellelath
 
-shipping thoughtful ML + cloud experiments.  
-currently tinkering with agents, news intelligence, and writing a tiny **DSA book**.
+shipping thoughtful ML experiments.  
+currently tinkering with agents, news intelligence, and co-creating a **DSA book**.
 
 ---
 
 ### 🌱 now
 - building with **cloud + multi-agent systems**  
 - exploring **news intelligence workflows**  
-- drafting a beginner-friendly **DSA mini-book** (example-first, short chapters)
+- contributed to a beginner-friendly **DSA mini-book** (brought structure & imagination to someone else’s expertise)
 
 ---
 
@@ -32,6 +32,31 @@ projects
 ↳ deployed demo: <add link>
 [HTML] [Tailwind]
 
+🌩️ Cloud Orchestrator
+Multi-agent ADK system that turns plain-English intents into 20+ GCP actions (GKE, Vertex, BigQuery) — no scripts needed.
+🔗 Live Demo • Devpost
+ADK Gemini GCP Python
+📰 News Intelligence Playground
+Lightweight news-intelligence workflow: scrape → summarize → explore. Work in Progress
+Python JavaScript
+🎯 FeedForward 🏅
+Personal learning navigator that converts goals into weekly "feed-forward" tasks and check-ins. Runner-up winner
+🔗 Devpost
+LLM UX Design Product Strategy
+💃 NeuraDance
+Pose-based dance-form classifier using MediaPipe and Keras for real-time movement recognition.
+MediaPipe TensorFlow/Keras Python
+📊 Stock Market Prediction
+Twitter sentiment analysis combined with ML baselines for market movement prediction.
+NLP Jupyter Regression/Classification
+📖 OpenBook
+Simple roadmap site helping beginners make their first open-source contributions. Built at MLH Hackathon
+🔗 Live Demo
+HTML Tailwind CSS
+🧮 Mathai
+Early-stage mathematical AI assistant. Currently in development
+Work in Progress
+
 ---
 
 ### 🛠️ micro-interests
@@ -40,4 +65,4 @@ ml systems • agent orchestration • news/search • learning tools
 ---
 
 ### 🤝 connect
-[GitHub](https://github.com/vellsneha) • [LinkedIn](<www.linkedin.com/in/snehavellelath>) • [Email](mailto:<velsneha@umd.edu>)
+[GitHub](https://github.com/vellsneha) • [LinkedIn](https://www.linkedin.com/in/snehavellelath) • [Email](mailto:velsneha@umd.edu)
