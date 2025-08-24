@@ -22,8 +22,8 @@ Multi-agent ADK system that turns plain-English intents into 20+ GCP actions (GK
 Lightweight news-intelligence workflow: scrape → summarize → explore. *Work in Progress*  
 `Python` `JavaScript`
 
-### 🎯 [FeedForward](add-link) 🏅 
-A multi-modal agent built for the Capital One Food Bank Challenge. **Runner-up winner**  
+### 🎯 [FeedForward](add-link)  
+A multi-modal agent built for the Capital One Food Bank Challenge. **Runner-up winner🏅**  
 <!-- **🔗 [Devpost](add-link)**   --> 
 `LLM` `UX Design` `Product Strategy`
 
