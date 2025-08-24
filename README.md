@@ -39,11 +39,11 @@ Twitter sentiment analysis combined with ML baselines for market movement predic
 Simple roadmap site helping beginners make their first open-source contributions. *Built at MLH Hackathon*  
 <!-- **🔗 [Live Demo](add-link)**     -->
 `HTML` `Tailwind CSS`
-
+<!--
 ### 🧮 Mathai
 Early-stage mathematical AI assistant. *Currently in development*  
 `Work in Progress`
-
+ -->
 
 ---
 
