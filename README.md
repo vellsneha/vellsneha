@@ -48,7 +48,7 @@ Early-stage mathematical AI assistant. *Currently in development*
 ---
 
 ### 🛠️ micro-interests
-ml systems • agent orchestration • news/search • learning tools  
+ml systems • agent orchestration • news/search • learning tools • natural language processing • deep learning 
 
 ---
 
