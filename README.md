@@ -8,7 +8,7 @@ currently tinkering with agents, news intelligence, and co-creating a **cyber se
 ### 🌱 now
 - building with **cloud + multi-agent systems**  
 - exploring **real-time news processing frameworks**  
-- contributed to a beginner-friendly **DSA mini-book** (brought structure & imagination to someone else’s expertise)
+- contributed to a beginner-friendly **DSA mini-book** (brought structure & imagination to [Venky Karukuri’s](https://www.linkedin.com/in/venky/) expertise)
 
 ---
 
