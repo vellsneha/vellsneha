@@ -1,7 +1,7 @@
 # Sneha Vellelath
 
 shipping thoughtful ML experiments.  
-currently tinkering with agents, LLMs, RAG systems and understanding core NLP systems.
+currently tinkering with agents, LLMs, RAG systems and understanding core NLP systems.  
 when I’m not doing that, you’ll find me working on video production or coaching math students.
 
 ---
