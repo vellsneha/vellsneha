@@ -14,12 +14,12 @@ when I’m not doing that, you’ll find me working on video production or coach
 ---
 
 ### 🚀 selected work
-### 🌩️ [Cloud Orchestrator](add-link)
+### 🌩️ [Cloud Orchestrator](https://github.com/shifamehreen-005/cloud-orchestrator)
 Multi-agent ADK system that turns plain-English intents into 20+ GCP actions (GKE, Vertex, BigQuery) — no scripts needed.  
 <!-- **🔗 [Live Demo](add-link) • [Devpost](add-link)** -->  
 `ADK` `Gemini` `GCP` `Python`
 
-### 🥙 [FeedForward](add-link)  
+### 🥙 [FeedForward](https://github.com/shifamehreen-005/FeedForward)  
 A multi-modal agent built for the Capital One Food Bank Challenge. **Runner-up winner🏅**  
 <!-- **🔗 [Devpost](add-link)**   --> 
 `LLM` `UX Design` `Product Strategy`
