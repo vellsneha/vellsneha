@@ -31,7 +31,7 @@ A production-ready RAG system for semantic document search and AI-powered Q&A wi
 `RAG` `LLM` `Cohere` `Semantic Search` `Dense Vector Retrieval` `Embedding Models` `FastAPI` 
 
 ### 💳 [FinGraph](https://devpost.com/software/fingraph) 
-A Multi-agent graph‑based financial intelligence system that reconstructs freelancer finances from real banking data and uses multi‑agent reasoning to produce explainable financial stability insights. 
+A multi-agent, graph-based system that analyzes freelancer finances from real banking data to provide explainable financial stability insights. 
 <!-- **🔗 [Devpost](add-link)**   --> 
 `ADK` `Neo4j` `FastAPI` `React` `Data Visualization` `Graph Database` 
 
