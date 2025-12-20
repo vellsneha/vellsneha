@@ -23,7 +23,7 @@ Multi-agent ADK system that turns plain-English intents into 20+ GCP actions (GK
 ### 🥙 [FeedForward](https://github.com/shifamehreen-005/FeedForward)  
 A multi-modal agent built for the Capital One Food Bank Challenge. **Runner-up winner🏅**  
 <!-- **🔗 [Devpost](add-link)**   --> 
-`LLM` `UX Design` `Product Strategy` `OpenAI`
+`LLM` `UX Design` `Product Strategy` `OpenAI` `Twilio`
 
 ### 🔍 [IntelliRAGs](https://github.com/vellsneha/IntelliRAGs) 
 A production-ready RAG system for semantic document search and AI-powered Q&A with authentication, analytics, and an interactive UI. 
@@ -31,9 +31,9 @@ A production-ready RAG system for semantic document search and AI-powered Q&A wi
 `RAG` `LLM` `Cohere` `Semantic Search` `Dense Vector Retrieval` `Embedding Models` `FastAPI` 
 
 ### 💳 [FinGraph](https://devpost.com/software/fingraph) 
-A graph‑based financial intelligence system that reconstructs freelancer finances from real banking data and uses multi‑agent reasoning to produce explainable financial stability insights. 
+A Multi-agent graph‑based financial intelligence system that reconstructs freelancer finances from real banking data and uses multi‑agent reasoning to produce explainable financial stability insights. 
 <!-- **🔗 [Devpost](add-link)**   --> 
-`ADK` `Neo4j` `FastAPI` `React` `Multi Agent AI` `Data Visualization` `Graph Database` 
+`ADK` `Neo4j` `FastAPI` `React` `Data Visualization` `Graph Database` 
 
 <!--
 ### 📰 [News Intelligence Playground](add-link) 
