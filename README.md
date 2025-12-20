@@ -23,7 +23,7 @@ Multi-agent ADK system that turns plain-English intents into 20+ GCP actions (GK
 ### 🥙 [FeedForward](https://github.com/shifamehreen-005/FeedForward)  
 A multi-modal agent built for the Capital One Food Bank Challenge. **Runner-up winner🏅**  
 <!-- **🔗 [Devpost](add-link)**   --> 
-`LLM` `UX Design` `Product Strategy`
+`LLM` `UX Design` `Product Strategy` `OpenAI`
 
 ### 🔍 [IntelliRAGs](https://github.com/vellsneha/IntelliRAGs) 
 A production-ready RAG system for semantic document search and AI-powered Q&A with authentication, analytics, and an interactive UI. 
