@@ -25,10 +25,15 @@ A multi-modal agent built for the Capital One Food Bank Challenge. **Runner-up w
 <!-- **🔗 [Devpost](add-link)**   --> 
 `LLM` `UX Design` `Product Strategy`
 
-### 📰 [IntelliRAGs](https://github.com/vellsneha/IntelliRAGs) 
+### 🔍 [IntelliRAGs](https://github.com/vellsneha/IntelliRAGs) 
 A production-ready RAG system for semantic document search and AI-powered Q&A with authentication, analytics, and an interactive UI. 
 <!-- **🔗 [Devpost](add-link)**   --> 
-`retrieval augmented generation` `llms` `cohere` `semantic search` `dense vector retrieval` `embedding models` `fastapi` 
+`RAG` `LLM` `Cohere` `Semantic Search` `Dense Vector Retrieval` `Embedding Models` `FastAPI` 
+
+### 🔍 [FinGraph](https://devpost.com/software/fingraph) 
+A graph‑based financial intelligence system that reconstructs freelancer finances from real banking data and uses multi‑agent reasoning to produce explainable financial stability insights. 
+<!-- **🔗 [Devpost](add-link)**   --> 
+`ADK` `Neo4j` `FastAPI` `React` `Multi Agent AI` `Data Visualization` `Graph Database` 
 
 ### 📰 [News Intelligence Playground](add-link) 
 Lightweight news-intelligence workflow: scrape → summarize → explore. *Work in Progress*  
