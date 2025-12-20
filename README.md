@@ -28,7 +28,7 @@ A multi-modal agent built for the Capital One Food Bank Challenge. **Runner-up w
 ### 📰 [IntelliRAGs](https://github.com/vellsneha/IntelliRAGs) 
 A production-ready RAG system for semantic document search and AI-powered Q&A with authentication, analytics, and an interactive UI. 
 <!-- **🔗 [Devpost](add-link)**   --> 
-`retrieval-augmented-generation` `large-language-models` `cohere` `semantic-search` `dense-vector-retrieval` `fastapi` `embedding-models`
+`retrieval-augmented-generation` `llms` `cohere` `semantic-search` `dense-vector-retrieval` `embedding-models` `fastapi` 
 
 ### 📰 [News Intelligence Playground](add-link) 
 Lightweight news-intelligence workflow: scrape → summarize → explore. *Work in Progress*  
