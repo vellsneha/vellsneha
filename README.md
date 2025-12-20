@@ -26,7 +26,7 @@ A multi-modal agent built for the Capital One Food Bank Challenge. **Runner-up w
 `LLM` `UX Design` `Product Strategy` `OpenAI` `Twilio`
 
 ### 🔍 [IntelliRAGs](https://github.com/vellsneha/IntelliRAGs) 
-A RAG system using vector embeddings and LLMs for semantic document search and context-aware Q&A with secure access and analytics. 
+A production-ready RAG platform leveraging embeddings and LLMs for semantic search and context-grounded Q&A. 
 <!-- **🔗 [Devpost](add-link)**   --> 
 `RAG` `LLM` `Cohere` `Semantic Search` `Dense Vector Retrieval` `Embedding Models` `FastAPI` 
 
