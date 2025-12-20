@@ -35,6 +35,11 @@ A multi-agent graph system analyzing freelancer finances to deliver explainable 
 <!-- **🔗 [Devpost](add-link)**   --> 
 `ADK` `Neo4j` `FastAPI` `React` `Data Visualization` `Graph Database` 
 
+### 🔄 [Weather Kinesis](https://github.com/vellsneha/weather-kinesis) 
+A production-ready pipeline for ingesting, streaming, and analyzing weather data using AWS Kinesis, S3, and visualization tools. 
+<!-- **🔗 [Devpost](add-link)**   --> 
+`AWS Kinesis` `AWS S3` `AWS EC2` `Data Pipeline` `DynamoDB` `NOAA API` `Flask` `ETL` `Python`
+
 <!--
 ### 📰 [News Intelligence Playground](add-link) 
 Lightweight news-intelligence workflow: scrape → summarize → explore. *Work in Progress*  
