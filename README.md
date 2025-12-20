@@ -38,7 +38,7 @@ A graph‑based financial intelligence system that reconstructs freelancer finan
 <!--
 ### 📰 [News Intelligence Playground](add-link) 
 Lightweight news-intelligence workflow: scrape → summarize → explore. *Work in Progress*  
-<!-- **🔗 [Devpost](add-link)**   --> 
+[Devpost](add-link) 
 `Python` `JavaScript`
 -->
 
@@ -55,7 +55,7 @@ Twitter sentiment analysis combined with ML baselines for market movement predic
 <!--
 ### 📖 [OpenBook](add-link) 
 Simple roadmap site helping beginners make their first open-source contributions. *Built at MLH Hackathon*  
-<!-- **🔗 [Live Demo](add-link)**     -->
+[Live Demo](add-link)
 `HTML` `Tailwind CSS`
 -->
 
