@@ -26,14 +26,17 @@ A multi-modal agent built for the Capital One Food Bank Challenge. **Runner-up w
 
 ### 📰 [News Intelligence Playground](add-link) 
 Lightweight news-intelligence workflow: scrape → summarize → explore. *Work in Progress*  
+<!-- **🔗 [Devpost](add-link)**   --> 
 `Python` `JavaScript`
 
 ### 💃 [NeuraDance](add-link)
 Pose-based dance-form classifier using MediaPipe and Keras for real-time movement recognition.  
+<!-- **🔗 [Devpost](add-link)**   --> 
 `MediaPipe` `TensorFlow/Keras` `Python`
 
 ### 📊 [Stock Market Prediction](add-link)
 Twitter sentiment analysis combined with ML baselines for market movement prediction.  
+<!-- **🔗 [Devpost](add-link)**   --> 
 `NLP` `Jupyter` `Regression/Classification`
 
 ### 📖 [OpenBook](add-link) 
