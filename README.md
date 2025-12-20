@@ -35,12 +35,12 @@ A graph‑based financial intelligence system that reconstructs freelancer finan
 <!-- **🔗 [Devpost](add-link)**   --> 
 `ADK` `Neo4j` `FastAPI` `React` `Multi Agent AI` `Data Visualization` `Graph Database` 
 
-'''
+<!--
 ### 📰 [News Intelligence Playground](add-link) 
 Lightweight news-intelligence workflow: scrape → summarize → explore. *Work in Progress*  
 <!-- **🔗 [Devpost](add-link)**   --> 
 `Python` `JavaScript`
-'''
+-->
 
 ### 💃 [NeuraDance](add-link)
 Pose-based dance-form classifier using MediaPipe and Keras for real-time movement recognition.  
@@ -52,12 +52,12 @@ Twitter sentiment analysis combined with ML baselines for market movement predic
 <!-- **🔗 [Devpost](add-link)**   --> 
 `NLP` `Jupyter` `Regression/Classification`
 
-'''
+<!--
 ### 📖 [OpenBook](add-link) 
 Simple roadmap site helping beginners make their first open-source contributions. *Built at MLH Hackathon*  
 <!-- **🔗 [Live Demo](add-link)**     -->
 `HTML` `Tailwind CSS`
-'''
+-->
 
 <!--
 ### 🧮 Mathai
