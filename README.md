@@ -8,7 +8,7 @@ when I’m not doing that, you’ll find me working on video production or coach
 
 ### 🌱 now
 - building with **cloud + multi-agent systems**  
-- exploring **real-time news processing frameworks**  
+- exploring **end-to-end ML pipelines, LLM applications, inference, and multi-agent AI systems**
 - contributed to a beginner-friendly **DSA mini-book** (brought structure & imagination to [Venky Karukuri’s](https://www.linkedin.com/in/venky/) expertise)
 
 ---
