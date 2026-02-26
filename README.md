@@ -16,7 +16,7 @@ when I’m not doing that, you’ll find me coaching math students, editing moti
 ### 🚀 selected work
 
 ### 📹 [Vista]()
-Multi-agent spatio-temporal intelligence system using Gemini object detection, optical flow, and graph-based allocentric memory to convert egocentric construction footage into queryable context for VLM reasoning.  **2nd Runner-up winner🏅** 
+A Spatio-Temporal RAG system that turns raw footage into structured, queryable spatial-temporal memory any VLM can retrieve from.    **2nd Runner-up winner🏅** 
 [Devpost](add-link)
 <!-- **Space**   --> 
 `VLMs` `Graph` `CV` `Optical Flow` `Allocentric Heading` `Spatio-Temporal RAG` `Gemini`  `Agentic Retrieval` `Egocentric Video Dataset`
