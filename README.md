@@ -15,9 +15,9 @@ when I’m not doing that, you’ll find me coaching math students, editing moti
 
 ### 🚀 selected work
 
-### 📹 [Vista]()
-A Spatio-Temporal RAG system that turns raw footage into structured, queryable spatial-temporal memory any VLM can retrieve from.    **2nd Runner-up winner🏅** 
-[Devpost](add-link)
+### 👷🏻‍♀️ [Vista](https://github.com/shifamehreen-005/VISTA)  
+A Spatio-Temporal RAG system that turns raw footage into structured, queryable spatial-temporal memory any VLM can retrieve from.**2nd Runner-up winner🏅**  
+[Devpost](https://devpost.com/software/project-m1vfpu5ny2c4?ref_content=user-portfolio&ref_feature=in_progress)   
 <!-- **Space**   --> 
 `VLMs` `Graph` `CV` `Optical Flow` `Allocentric Heading` `Spatio-Temporal RAG` `Gemini`  `Agentic Retrieval` `Egocentric Video Dataset`
 
