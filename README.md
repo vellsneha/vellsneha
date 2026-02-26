@@ -14,6 +14,13 @@ when I’m not doing that, you’ll find me coaching math students, editing moti
 ---
 
 ### 🚀 selected work
+
+### [VISTA]()
+Multi-agent spatio-temporal intelligence system using Gemini object detection, optical flow, and graph-based allocentric memory to convert egocentric construction footage into queryable context for VLM reasoning.  **2nd Runner-up winner🏅** 
+[Devpost](add-link)
+<!-- **Space**   --> 
+VLMs` `Graph` `CV` `Optical Flow` `Allocentric Heading` `Spatio-Temporal RAG` `Gemini`  `Agentic Retrieval` `Egocentric Video Dataset`
+
 ### 🌩️ [Cloud Orchestrator](https://github.com/shifamehreen-005/cloud-orchestrator)  
 Multi-agent ADK system that turns plain-English intents into 20+ GCP actions (GKE, Vertex, BigQuery) — no scripts needed.  
 [Medium](https://medium.com/@swapnita1205/from-cloud-confusion-to-just-ask-how-we-built-ai-agents-that-actually-understand-your-google-a8d0f2c88597) • [Devpost](https://devpost.com/software/cloud-orchestrator)  
@@ -22,7 +29,7 @@ Multi-agent ADK system that turns plain-English intents into 20+ GCP actions (GK
 
 ### 🥙 [FeedForward](https://github.com/shifamehreen-005/FeedForward)  
 A multi-modal agent built for the Capital One Food Bank Challenge. **Runner-up winner🏅**  
-<!-- **🔗 [Devpost](add-link)**   --> 
+<!-- **[Devpost](add-link)**   --> 
 `LLM` `UX Design` `Product Strategy` `OpenAI` `Twilio`
 
 ### 🔍 [IntelliRAGs](https://github.com/vellsneha/IntelliRAGs) 
