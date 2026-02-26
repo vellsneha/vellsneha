@@ -21,7 +21,7 @@ A Spatio-Temporal RAG system that turns raw footage into structured, queryable s
 <!-- **Space**   --> 
 `VLMs` `Graph` `CV` `Optical Flow` `Allocentric Heading` `Spatio-Temporal RAG` `Gemini`  `Agentic Retrieval` `Egocentric Video Dataset`
 
-### 🌩️ [Cloud Orchestrator](https://github.com/shifamehreen-005/cloud-orchestrator)  
+### 🌩️ [Cloud Orchestrator](https://github.com/shifamehreen-005/cloud-orchestrator) ![2nd Runner-up](https://img.shields.io/badge/-2nd%20Runner--up-yellow) 
 Multi-agent ADK system that turns plain-English intents into 20+ GCP actions (GKE, Vertex, BigQuery) — no scripts needed.  
 [Medium](https://medium.com/@swapnita1205/from-cloud-confusion-to-just-ask-how-we-built-ai-agents-that-actually-understand-your-google-a8d0f2c88597) • [Devpost](https://devpost.com/software/cloud-orchestrator)  
 <!-- **Space**   --> 
