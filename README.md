@@ -15,19 +15,19 @@ when I’m not doing that, you’ll find me coaching math students, editing moti
 
 ### 🚀 selected work
 
-### 👷🏻‍♀️ [Vista](https://github.com/shifamehreen-005/VISTA)  <span style="font-size:0.7em;">**2nd Runner-up winner🏅**</span>
+### 👷🏻‍♀️ [Vista](https://github.com/shifamehreen-005/VISTA)  ![2nd Runner-up](https://img.shields.io/badge/-2nd%20Runner--up-blue)
 A Spatio-Temporal RAG system that turns raw footage into structured, queryable spatial-temporal memory any VLM can retrieve from.  
 [Devpost](https://devpost.com/software/project-m1vfpu5ny2c4?ref_content=user-portfolio&ref_feature=in_progress)   
 <!-- **Space**   --> 
 `VLMs` `Graph` `CV` `Optical Flow` `Allocentric Heading` `Spatio-Temporal RAG` `Gemini`  `Agentic Retrieval` `Egocentric Video Dataset`
 
-### 🌩️ [Cloud Orchestrator](https://github.com/shifamehreen-005/cloud-orchestrator) ![2nd Runner-up](https://img.shields.io/badge/-2nd%20Runner--up-yellow) 
+### 🌩️ [Cloud Orchestrator](https://github.com/shifamehreen-005/cloud-orchestrator)  
 Multi-agent ADK system that turns plain-English intents into 20+ GCP actions (GKE, Vertex, BigQuery) — no scripts needed.  
 [Medium](https://medium.com/@swapnita1205/from-cloud-confusion-to-just-ask-how-we-built-ai-agents-that-actually-understand-your-google-a8d0f2c88597) • [Devpost](https://devpost.com/software/cloud-orchestrator)  
 <!-- **Space**   --> 
 `ADK` `Gemini` `GCP` `Python`
 
-### 🥙 [FeedForward](https://github.com/shifamehreen-005/FeedForward)  <span style="font-size:0.7em;">**Runner-up winner🏅**</span>
+### 🥙 [FeedForward](https://github.com/shifamehreen-005/FeedForward)  ![Runner-up](https://img.shields.io/badge/-2nd%20Runner--up-blue)
 A multi-modal agent built for the Capital One Food Bank Challenge.   
 <!-- **[Devpost](add-link)**   --> 
 `LLM` `UX Design` `Product Strategy` `OpenAI` `Twilio`
