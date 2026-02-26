@@ -15,7 +15,7 @@ when I’m not doing that, you’ll find me coaching math students, editing moti
 
 ### 🚀 selected work
 
-### 👷🏻‍♀️ [Vista](https://github.com/shifamehreen-005/VISTA)  <small>**2nd Runner-up winner🏅**</small>
+### 👷🏻‍♀️ [Vista](https://github.com/shifamehreen-005/VISTA)  <span style="font-size:0.7em;">**2nd Runner-up winner🏅**</span>
 A Spatio-Temporal RAG system that turns raw footage into structured, queryable spatial-temporal memory any VLM can retrieve from.  
 [Devpost](https://devpost.com/software/project-m1vfpu5ny2c4?ref_content=user-portfolio&ref_feature=in_progress)   
 <!-- **Space**   --> 
@@ -27,7 +27,7 @@ Multi-agent ADK system that turns plain-English intents into 20+ GCP actions (GK
 <!-- **Space**   --> 
 `ADK` `Gemini` `GCP` `Python`
 
-### 🥙 [FeedForward](https://github.com/shifamehreen-005/FeedForward)  <small>**Runner-up winner🏅**</small>
+### 🥙 [FeedForward](https://github.com/shifamehreen-005/FeedForward)  <span style="font-size:0.7em;">**Runner-up winner🏅**</span>
 A multi-modal agent built for the Capital One Food Bank Challenge.   
 <!-- **[Devpost](add-link)**   --> 
 `LLM` `UX Design` `Product Strategy` `OpenAI` `Twilio`
