@@ -19,7 +19,7 @@ when I’m not doing that, you’ll find me coaching math students, editing moti
 Multi-agent spatio-temporal intelligence system using Gemini object detection, optical flow, and graph-based allocentric memory to convert egocentric construction footage into queryable context for VLM reasoning.  **2nd Runner-up winner🏅** 
 [Devpost](add-link)
 <!-- **Space**   --> 
-'VLMs` `Graph` `CV` `Optical Flow` `Allocentric Heading` `Spatio-Temporal RAG` `Gemini`  `Agentic Retrieval` `Egocentric Video Dataset`
+`VLMs` `Graph` `CV` `Optical Flow` `Allocentric Heading` `Spatio-Temporal RAG` `Gemini`  `Agentic Retrieval` `Egocentric Video Dataset`
 
 ### 🌩️ [Cloud Orchestrator](https://github.com/shifamehreen-005/cloud-orchestrator)  
 Multi-agent ADK system that turns plain-English intents into 20+ GCP actions (GKE, Vertex, BigQuery) — no scripts needed.  
