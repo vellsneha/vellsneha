@@ -19,7 +19,8 @@ when I’m not doing that, you’ll find me coaching math students, editing moti
 A Spatio-Temporal RAG system that turns raw footage into structured, queryable spatial-temporal memory any VLM can retrieve from.  
 [Devpost](https://devpost.com/software/project-m1vfpu5ny2c4?ref_content=user-portfolio&ref_feature=in_progress)   
 <!-- **Space**   --> 
-`VLMs` `Graph` `CV` `Optical Flow` `Allocentric Heading` `Spatio-Temporal RAG` `Gemini`  `Agentic Retrieval` `Egocentric Video Dataset`
+`VLMs` `Graph` `CV` `Optical Flow` `Allocentric Heading` `Spatio-Temporal RAG` 
+`Gemini`  `Agentic Retrieval` `Egocentric Video Dataset`
 
 ### 🌩️ [Cloud Orchestrator](https://github.com/shifamehreen-005/cloud-orchestrator)  
 Multi-agent ADK system that turns plain-English intents into 20+ GCP actions (GKE, Vertex, BigQuery) — no scripts needed.  
