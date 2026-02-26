@@ -27,7 +27,7 @@ Multi-agent ADK system that turns plain-English intents into 20+ GCP actions (GK
 <!-- **Space**   --> 
 `ADK` `Gemini` `GCP` `Python`
 
-### 🥙 [FeedForward](https://github.com/shifamehreen-005/FeedForward)  ![Runner-up](https://img.shields.io/badge/-2nd%20Runner--up-blue)
+### 🥙 [FeedForward](https://github.com/shifamehreen-005/FeedForward)  ![Runner-up](https://img.shields.io/badge/-Runner--up-FFFF99?style=flat&logoColor=black)
 A multi-modal agent built for the Capital One Food Bank Challenge.   
 <!-- **[Devpost](add-link)**   --> 
 `LLM` `UX Design` `Product Strategy` `OpenAI` `Twilio`
