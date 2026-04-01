@@ -7,7 +7,7 @@ when I’m not doing that, you’ll find me coaching math students, editing moti
 ---
 
 ### 🌱 now
-- building with **coreML + multi-agent systems + cloud**  
+- building with **computer vision + multi-agent systems + cloud**  
 - exploring **end-to-end ML pipelines, LLM applications, inference, and multi-agent AI systems**
 - contributed to a beginner-friendly [DSA hand-book](https://www.amazon.in/dp/9354439381?ref_=cm_sw_r_ffobk_cso_cp_apin_dp_EG34FKJQQM1CYAE22WYG&bestFormat=true&previewDoh=1) (brought structure & imagination to [Venky Karukuri’s](https://www.linkedin.com/in/venky/) expertise)
 
