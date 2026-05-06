@@ -1,7 +1,7 @@
 # Sneha Vellelath
 
-learning to build AI systems and experimenting with ML models
-when I’m not building, I’m doing a bit of everything else.
+learning to build AI systems and experimenting with ML models  
+when I’m not building, I’m doing a bit of everything else
 
 ---
 
