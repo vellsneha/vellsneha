@@ -1,8 +1,7 @@
 # Sneha Vellelath
 
-shipping thoughtful ML experiments.  
-currently tinkering with computer vision, agents, LLMs, and RAG systems.  
-when I’m not doing that, you’ll find me coaching math students, editing motion graphics, experimenting in the kitchen, or enjoying a perfect cup of coffee.
+learning to build AI systems with LLMs, agents and vision models. 
+when I’m not building, I’m doing a bit of everything else.
 
 ---
 
