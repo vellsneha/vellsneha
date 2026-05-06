@@ -13,7 +13,7 @@ when I’m not doing that, you’ll find me coaching math students, editing moti
 
 ---
 
-### 🚀 selected work
+### selected work
 
 ### 👷🏻‍♀️ [Vista](https://github.com/shifamehreen-005/VISTA)  ![2nd Runner-up](https://img.shields.io/badge/-2nd%20Runner--up-FEF8DD?style=flat&logoColor=black)
 A Spatio-Temporal RAG system that turns raw footage into structured, queryable spatial-temporal memory any VLM can retrieve from.  
