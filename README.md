@@ -1,6 +1,6 @@
 # Sneha Vellelath
 
-learning to build AI systems with LLMs, agents and vision models. 
+learning to build AI systems with LLMs, agents and vision models.  
 when I’m not building, I’m doing a bit of everything else.
 
 ---
